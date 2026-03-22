@@ -4,7 +4,5 @@
   "tarballs": [
     "https://github.com/vividquack/vividpkg-source/releases/download/packages/nvim.tar.gz"
   ],
-  "tarball_sha256": [
-    "41096c68ffb90814c1a3559bca99ccb6e13ed926c7aeae0da3d68e866f510bfe"
-  ]
+  "tarball_sha256": []
 }
