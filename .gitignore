@@ -1,4 +1,3 @@
 */*
 !*/*.json
-!*/*.tar.gz
-glibc/glibc.tar.gz
+*/*.tar.bz2

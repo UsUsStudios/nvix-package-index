@@ -2,9 +2,13 @@
   "version": "2.39",
   "dependencies": [],
   "tarballs": [
-    "https://github.com/UsUsStudios/nvix-package-index/releases/download/main/glibc.tar.gz"
+    "https://github.com/ususstudios/nvix-package-index/releases/download/packages/glib1.tar.bz2",
+    "https://github.com/ususstudios/nvix-package-index/releases/download/packages/glib2.tar.bz2",
+    "https://github.com/ususstudios/nvix-package-index/releases/download/packages/glib3.tar.bz2"
   ],
   "tarball_sha256": [
-    "41096c68ffb90814c1a3559bca99ccb6e13ed926c7aeae0da3d68e866f510bfe"
+    "906239fdaf7d33e4bcc0f8c8263e53d07b0d4b70631603e34d0cee0c3034e728",
+    "866951c4329248d4de5ac3eae4e64c717f7ae2ade5260b57241359b49d846885",
+    "0a597f8da99c6725ea45f90d8e124fc63040e31ea2a26af93f0c2385d3455ee4"
   ]
 }
