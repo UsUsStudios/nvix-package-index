@@ -1,0 +1,10 @@
+{
+  "version": 1,
+  "dependencies": [
+    "ostools"
+  ],
+  "tarballs": [
+    "https://github.com/ususstudios/nvix-package-index/releases/download/packages/req-packages.tar.gz"
+  ],
+  "tarball_sha256": []
+}

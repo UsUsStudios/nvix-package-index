@@ -1,8 +1,0 @@
-{
-  "version": "2.39",
-  "dependencies": [],
-  "tarballs": [
-    "https://github.com/ususstudios/nvix-package-index/releases/download/packages/glibc.tar.gz"
-  ],
-  "tarball_sha256": []
-}
