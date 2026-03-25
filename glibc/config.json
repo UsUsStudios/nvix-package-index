@@ -6,9 +6,5 @@
     "https://github.com/ususstudios/nvix-package-index/releases/download/packages/glibc2.tar.gz",
     "https://github.com/ususstudios/nvix-package-index/releases/download/packages/glibc3.tar.gz"
   ],
-  "tarball_sha256": [
-    "711900285fcf84bed7120f04c830210ac29e4b95fe2ede18bf13099860a03228",
-    "36a9c02eb82676704e1ea8893417fc459280894a6762746892c3666594231c9e",
-    "fd05339b70b23d4ec07377c9e2a0d69a69a895ddc51d27a6237383e3c340c482"
-  ]
+  "tarball_sha256": []
 }
